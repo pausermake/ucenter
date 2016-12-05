@@ -10,7 +10,7 @@
             "email": "pausermake@126.com"
         }
     ],
-    "minimum-stability": "master",
+    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
