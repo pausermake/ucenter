@@ -1,0 +1,23 @@
+{
+    "name": "pausermake/ucenter",
+    "description": "ucenter for thinkphp5",
+    "type": "library",
+    "license": "Apache-2.0",
+	"version":"1.0.0",
+    "authors": [
+        {
+            "name": "pausermake",
+            "email": "pausermake@126.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ucenter\\": "src/"
+        },
+        "files":[
+            "src/helper.php"
+        ]
+    }
+}
