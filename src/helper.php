@@ -1,3 +1,3 @@
 <?php
 
-\think\Route::any('/api/uc.php', "ucenter\\ApiController@run");
+\think\Route::any('/api/uc', "ucenter\\ApiController@run");
